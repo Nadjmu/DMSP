@@ -1,0 +1,14 @@
+FreeRTOS
+https://www.hackster.io/luo-zeqing/implement-freertos-with-arduino-ide-on-esp32-444f54
+https://www.circuitstate.com/tutorials/how-to-write-parallel-multitasking-applications-for-esp32-using-freertos-arduino/
+https://simplyexplained.com/blog/multitasking-esp32-arduino-freertos/
+https://www.digikey.ch/en/maker/projects/introduction-to-rtos-solution-to-part-8-software-timers/0f64cf758da440a29476165a5b2e577e
+https://www.youtube.com/watch?v=kP-pP6FEu8I&list=PLzvRQMJ9HDiQ3OIuBWCEW6yE0S0LUWhGU&index=20
+https://www.youtube.com/watch?v=684KSAvYbw4
+
+
+
+TensorFlowLite 
+
+
+
